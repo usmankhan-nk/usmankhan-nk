@@ -1,26 +1,35 @@
-# Hi, I'm Usman Khan 
+# Hi, I'm Usman Khan
 
-BSCS Student at Sir Syed University of Engineering & Technology (SSUET), Karachi
+I'm a BSCS student at Sir Syed University of Engineering & Technology (SSUET), Karachi, interested in software development and building practical projects.
 
-Aspiring Software Developer passionate about learning, building projects, and improving my problem-solving skills.
+I enjoy learning how things work, solving problems, and applying what I learn through hands-on development.
 
 ## About Me
 
-- Currently pursuing my BSCS degree.
-- Continuously learning software development and computer science fundamentals.
-- Interested in building practical projects and writing clean, maintainable code.
-- Working toward becoming a professional software developer.
+- Currently pursuing my BSCS degree at SSUET.
+- Learning software development and strengthening my computer science fundamentals.
+- Interested in writing clean, maintainable code and building useful applications.
+- Working on personal projects to improve my development skills.
 
-## Skills & Technologies
+## Technologies
 
-*This section will be updated as I build projects and strengthen my skills.*
+- HTML5
+- CSS3
+- GitHub Pages
 
-## Featured Projects
+I'm continuing to learn and expand my technical skills as I work on more projects.
 
-Coming soon — I'm working on building and showcasing my projects here.
+## Featured Project
+
+### Patrona Puppy
+
+A dog-focused website featuring dog breeds, care information, FAQs, and other content for dog lovers.
+
+- **Live Website:** [Patrona Puppy](https://usmankhan-nk.github.io/patrona-puppy/)
+- **Source Code:** [View Repository](https://github.com/usmankhan-nk/patrona-puppy)
 
 ## Connect With Me
 
-- GitHub: [@usmankhan-nk](https://github.com/usmankhan-nk)
+- **GitHub:** [@usmankhan-nk](https://github.com/usmankhan-nk)
 
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile!
