@@ -11,14 +11,32 @@ I enjoy learning how things work, solving problems, and applying what I learn th
 - Interested in writing clean, maintainable code and building useful applications.
 - Working on personal projects to improve my development skills.
 
-## Technologies
+## Technologies & Tools
 
+**Languages**
+- C++
+- C#
+- JavaScript
+- Python
+- Dart
+
+**Frontend Development**
 - HTML5
 - CSS3
-- GitHub Pages
+- React
 
-I'm continuing to learn and expand my technical skills as I work on more projects.
+**Backend Development**
+- Node.js
+- Express.js
+- ASP.NET Core MVC
 
+**Database**
+- Microsoft SQL Server
+
+**Mobile Development**
+- Flutter
+
+I'm continuing to build projects and improve my skills across web, backend, and mobile development.
 ## Featured Project
 
 ### Patrona Puppy
