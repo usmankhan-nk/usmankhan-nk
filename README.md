@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Usman Khan 
 
-<!--
-**usmankhan-nk/usmankhan-nk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSCS Student at Sir Syed University of Engineering & Technology (SSUET), Karachi
 
-Here are some ideas to get you started:
+Aspiring Software Developer passionate about learning, building projects, and improving my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Currently pursuing my BSCS degree.
+- Continuously learning software development and computer science fundamentals.
+- Interested in building practical projects and writing clean, maintainable code.
+- Working toward becoming a professional software developer.
+
+## Skills & Technologies
+
+*This section will be updated as I build projects and strengthen my skills.*
+
+## Featured Projects
+
+Coming soon — I'm working on building and showcasing my projects here.
+
+## Connect With Me
+
+- GitHub: [@usmankhan-nk](https://github.com/usmankhan-nk)
+
+⭐ Thanks for visiting my profile!
